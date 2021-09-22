@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "Khubo",
+        "username": "<nama bot>",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "frozygg.survival-zone.com",
-        "port": 25827,
-        "version": "1.17.1"
+        "ip": "<IP>",
+        "port": <port>,
+        "version": "<Minecraft-java-version>"
     },
 
     "position":{
