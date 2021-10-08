@@ -2,8 +2,6 @@
   "name": "afk-player-bot-minecraft by Rifai",
   "description": "Deploy afk-player-bot-minecraft to heroku",
   "keywords": ["afk-player-bot-minecraft", "Docker"],
-  "env": {
-  },
   "website": "",
   "repository": "",
   "stack": "container"
