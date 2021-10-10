@@ -1,21 +1,21 @@
 {
     "bot-account":{ 
-        "username": "Khubo",
+        "username": "ChunkLoader",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "frozygg.survival-zone.com",
-        "port": 25827,
+        "ip": "owarinet.ender-zone.com",
+        "port": 25951,
         "version": "1.17.1"
     },
 
     "position":{
         "enabled": true,
-        "x": 9999,
-        "y": 9999,
-        "z": 9999
+        "x": 23,
+        "y": 102,
+        "z": 4171
     },
 
     "utils":{
