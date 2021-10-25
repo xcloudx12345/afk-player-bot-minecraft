@@ -1,6 +1,7 @@
 const mineflayer = require('mineflayer')
 const Movements = require('mineflayer-pathfinder').Movements
 const pathfinder = require('mineflayer-pathfinder').pathfinder
+const inventoryViewer = require('mineflayer-web-inventory')
 const { GoalBlock} = require('mineflayer-pathfinder').goals
 
 const config = require('./settings.json');
@@ -13,6 +14,19 @@ function createBot () {
       port: config.server.port,
       version: config.server.version
   })
+
+let semtup = {
+    port: 80,
+    path: PATH,
+    express: EXPRESS,
+    app: APP,
+    http: HTTP,
+    io: IO,
+    startOnLoad: BOOLEAN,
+    debounceTime: INT
+  }
+
+  inventoryViewer(bot, options)
 
   bot.loadPlugin(pathfinder)
   const mcData = require('minecraft-data')(bot.version)
