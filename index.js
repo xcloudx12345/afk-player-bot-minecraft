@@ -16,7 +16,7 @@ function createBot () {
   })
 
 let semtup = {
-    port: 80,
+    port: 3000,
     path: PATH,
     express: EXPRESS,
     app: APP,
