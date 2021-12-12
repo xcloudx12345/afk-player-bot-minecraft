@@ -20,5 +20,5 @@
  - Chat log
  - Chat messages Module
  - Auto reconnect
- - Supported server versions: `1.8 - 1.17.1`
+ - Supported server versions: `1.8 - 1.18.1`
 
