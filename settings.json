@@ -1,9 +1,4 @@
 {
-    "bot-account":{ 
-        "username": "ChunkLoader",
-        "password": "",
-        "type": "mojang"
-    },
 
     "server":{
         "ip": "owarinet.ender-zone.com",
