@@ -1,8 +1,8 @@
 {
     "bot-account":{ 
-        "username": "",
-        "password": "",
-        "type": "mojang"
+        "username": "bot",
+        "password": "123456",
+        "type": "offline"
     },
 
     "server":{
