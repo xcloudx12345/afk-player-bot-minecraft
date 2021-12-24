@@ -1,4 +1,9 @@
 {
+    "bot-account":{ 
+        "username": "",
+        "password": "",
+        "type": "mojang"
+    },
 
     "server":{
         "ip": "pikachuuuu.aternos.me",
