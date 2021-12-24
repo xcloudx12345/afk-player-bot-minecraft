@@ -11,5 +11,6 @@
   "dependencies": {
     "mineflayer": "^3.11.0",
     "mineflayer-pathfinder": "^1.2.3"
+    "mineflayer-web-inventory": "^1.6.2"
   }
 }
