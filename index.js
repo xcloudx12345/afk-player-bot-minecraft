@@ -2,6 +2,7 @@ const mineflayer = require('mineflayer')
 const Movements = require('mineflayer-pathfinder').Movements
 const pathfinder = require('mineflayer-pathfinder').pathfinder
 const inventoryViewer = require('mineflayer-web-inventory')
+const path = require('path')
 const { GoalBlock} = require('mineflayer-pathfinder').goals
 
 const config = require('./settings.json');
