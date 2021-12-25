@@ -27,7 +27,7 @@ let semtup = {
     debounceTime: 'INT'
   }
 
-  inventoryViewer(bot, options)
+  inventoryViewer(bot, semtup )
 
   bot.loadPlugin(pathfinder)
   const mcData = require('minecraft-data')(bot.version)
