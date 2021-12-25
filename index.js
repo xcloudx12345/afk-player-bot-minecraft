@@ -18,13 +18,13 @@ function createBot () {
 
 let semtup = {
     port: 3000,
-    path: PATH,
-    express: EXPRESS,
-    app: APP,
-    http: HTTP,
-    io: IO,
-    startOnLoad: BOOLEAN,
-    debounceTime: INT
+    path: 'PATH',
+    express: 'EXPRESS',
+    app: 'APP',
+    http: 'HTTP',
+    io: 'IO',
+    startOnLoad: 'BOOLEAN',
+    debounceTime: 'INT'
   }
 
   inventoryViewer(bot, options)
